@@ -1,0 +1,30 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node modules (if using npm in the future)
+node_modules/
+
+# Build output (if using build tools in the future)
+dist/
+build/
+
+# Cache
+.cache/
